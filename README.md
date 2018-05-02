@@ -1,4 +1,7 @@
-# Pick4Me
+# BarTndr
 
 A React application using Yelp's API to facilitate selecting restaurant/bar venues depending on location
-# BarTndr
+
+## Technologies used:
+- React.js
+- HTML/CSS
